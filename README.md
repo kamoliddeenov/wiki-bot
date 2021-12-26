@@ -6,5 +6,7 @@ WikipediaBot from mohirdev.uz
 - aiogram
 
 # Installing wiki/aiogram
-```pip install wikipedia```
-```pip install aiogram```
+```Python
+pip install wikipedia```
+```Python
+pip install aiogram```
